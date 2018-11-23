@@ -5,7 +5,7 @@ Created on Fri Nov 23 12:02:34 2018
 
 @author: Lin
 
-Simple implementation of priority queue (low to high)
+Simple implementation of priority queue (high to low)
 
 """
 
